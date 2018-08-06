@@ -1,0 +1,4 @@
+{
+"vehiculos":[{"id":"1","marca":"Chevrolet","modelo":"ASTRA COMFORT","placa":"PHW-1233","color":"Negro"},{"id":"2","marca":"Chevrolet","modelo":"OPTRA 2.0L","placa":"PLK-5654","color":"Plomo"},{"id":"3","marca":"Chevrolet","modelo":"AVEO LT COMFORT","placa":"PASD-2132","color":"Rojo"},{"id":"4","marca":"Mazda","modelo":"CX-3","placa":"GHT-4343","color":"Negro"},{"id":"5","marca":"Hyundai","modelo":"i20","placa":"LJKJ-0921","color":"Blanco"}],
+"reservaciones":[{"id":"1","fechaInicio":"2018-08-06","fechaFin":"2018-08-07","Responable":"Oscar pullay","idvehiculo":"1"},{"id":"2","fechaInicio":"2018-08-08","fechaFin":"2018-08-09","Responable":"Mario Nunez","idvehiculo":"2"}]
+}
